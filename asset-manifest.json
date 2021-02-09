@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.3a27eb7e.chunk.js": "/nyamzmeya/narutogram.git/static/js/0.3a27eb7e.chunk.js",
+    "static/js/0.3a27eb7e.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/0.3a27eb7e.chunk.js.map",
+    "main.css": "/nyamzmeya/narutogram.git/static/css/main.420fe843.chunk.css",
+    "main.js": "/nyamzmeya/narutogram.git/static/js/main.221af20d.chunk.js",
+    "main.js.map": "/nyamzmeya/narutogram.git/static/js/main.221af20d.chunk.js.map",
+    "runtime-main.js": "/nyamzmeya/narutogram.git/static/js/runtime-main.f8e03195.js",
+    "runtime-main.js.map": "/nyamzmeya/narutogram.git/static/js/runtime-main.f8e03195.js.map",
+    "static/js/3.6ae63464.chunk.js": "/nyamzmeya/narutogram.git/static/js/3.6ae63464.chunk.js",
+    "static/js/3.6ae63464.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/3.6ae63464.chunk.js.map",
+    "static/css/4.bdfd12d2.chunk.css": "/nyamzmeya/narutogram.git/static/css/4.bdfd12d2.chunk.css",
+    "static/js/4.ad2c4ccd.chunk.js": "/nyamzmeya/narutogram.git/static/js/4.ad2c4ccd.chunk.js",
+    "static/js/4.ad2c4ccd.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/4.ad2c4ccd.chunk.js.map",
+    "static/css/5.2306f291.chunk.css": "/nyamzmeya/narutogram.git/static/css/5.2306f291.chunk.css",
+    "static/js/5.bf4f649f.chunk.js": "/nyamzmeya/narutogram.git/static/js/5.bf4f649f.chunk.js",
+    "static/js/5.bf4f649f.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/5.bf4f649f.chunk.js.map",
+    "static/css/6.f4f76d1b.chunk.css": "/nyamzmeya/narutogram.git/static/css/6.f4f76d1b.chunk.css",
+    "static/js/6.76307995.chunk.js": "/nyamzmeya/narutogram.git/static/js/6.76307995.chunk.js",
+    "static/js/6.76307995.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/6.76307995.chunk.js.map",
+    "static/css/7.c512c86d.chunk.css": "/nyamzmeya/narutogram.git/static/css/7.c512c86d.chunk.css",
+    "static/js/7.aa00d92f.chunk.js": "/nyamzmeya/narutogram.git/static/js/7.aa00d92f.chunk.js",
+    "static/js/7.aa00d92f.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/7.aa00d92f.chunk.js.map",
+    "static/js/8.fd8a261b.chunk.js": "/nyamzmeya/narutogram.git/static/js/8.fd8a261b.chunk.js",
+    "static/js/8.fd8a261b.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/8.fd8a261b.chunk.js.map",
+    "static/js/9.04ca82e8.chunk.js": "/nyamzmeya/narutogram.git/static/js/9.04ca82e8.chunk.js",
+    "static/js/9.04ca82e8.chunk.js.map": "/nyamzmeya/narutogram.git/static/js/9.04ca82e8.chunk.js.map",
+    "index.html": "/nyamzmeya/narutogram.git/index.html",
+    "static/css/4.bdfd12d2.chunk.css.map": "/nyamzmeya/narutogram.git/static/css/4.bdfd12d2.chunk.css.map",
+    "static/css/5.2306f291.chunk.css.map": "/nyamzmeya/narutogram.git/static/css/5.2306f291.chunk.css.map",
+    "static/css/6.f4f76d1b.chunk.css.map": "/nyamzmeya/narutogram.git/static/css/6.f4f76d1b.chunk.css.map",
+    "static/css/7.c512c86d.chunk.css.map": "/nyamzmeya/narutogram.git/static/css/7.c512c86d.chunk.css.map",
+    "static/css/main.420fe843.chunk.css.map": "/nyamzmeya/narutogram.git/static/css/main.420fe843.chunk.css.map",
+    "static/js/3.6ae63464.chunk.js.LICENSE.txt": "/nyamzmeya/narutogram.git/static/js/3.6ae63464.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/nyamzmeya/narutogram.git/static/media/avatar.da337d6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8e03195.js",
+    "static/js/3.6ae63464.chunk.js",
+    "static/css/main.420fe843.chunk.css",
+    "static/js/main.221af20d.chunk.js"
+  ]
+}
