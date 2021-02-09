@@ -1,0 +1,27 @@
+.menu { 
+  grid-area: menu;
+  background-color:#F2F2F2;
+  padding: 20px;
+
+
+}
+
+.item {
+  line-height: 35px;
+  margin: 20px;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.781);
+  text-align: center;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Circular', Avenir, sans-serif;
+  font-weight: bold;
+}
+
+.item a:active {
+  color: red;
+}

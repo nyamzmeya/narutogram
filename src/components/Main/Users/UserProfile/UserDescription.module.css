@@ -1,0 +1,29 @@
+.user {
+    padding: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.781);
+}
+
+.profile img {
+    width: 300px;
+}
+
+.desc {
+    font-size: 20px;
+    font-family: 'Circular', Avenir, sans-serif;
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 300px 400px;
+    column-gap: 20px;
+}
+
+.info {
+    background-color:#F2F2F2;
+    color: black;
+    font-weight: bold;
+    height: 280px;
+    padding: 10px;
+}
+
+
+

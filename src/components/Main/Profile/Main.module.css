@@ -1,0 +1,26 @@
+.profile {
+  padding: 40px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.781);
+  height: 100%;
+}
+
+.profile img {
+  width: 300px;
+}
+
+.status {
+  width: 400px;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Circular', Avenir, sans-serif;
+  font-weight: medium;
+  padding: 15px;
+  background-color: rgba(170, 50, 220, .6);
+  text-align: center;
+}
+

@@ -1,0 +1,36 @@
+.dialogs {
+    padding: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.781);
+    height: 100%;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    font-size: 25px;
+    font-family: 'Circular', Avenir, sans-serif;
+    font-weight: medium;
+}
+
+
+
+
+
+.names {
+    
+}
+
+.messages {
+
+}
+
+.name a{
+    color: white; 
+    text-decoration: none;
+}
+
+.name a:active {
+    color: red;
+  }
+
+.message{
+
+}

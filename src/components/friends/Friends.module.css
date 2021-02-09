@@ -1,0 +1,29 @@
+.gridContainer {
+    display: grid;
+    padding-left: 20px;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 10px;
+    width: 50%;
+    color: white;
+  }
+
+.friends {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Circular', Avenir, sans-serif;
+    font-weight: bold;
+}
+.gridItem {
+  font-size: 25px;
+  font-family: 'Circular', Avenir, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.gridItem img {
+    border-radius: 50%;
+    width: 100px;
+}
